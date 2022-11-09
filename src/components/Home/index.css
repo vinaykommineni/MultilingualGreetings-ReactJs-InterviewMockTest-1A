@@ -1,0 +1,18 @@
+.bg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.heading {
+  color: #1e293b;
+  font-size: 32px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin: 35px;
+}
+.list-button {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+}
